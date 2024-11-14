@@ -49,3 +49,4 @@ po/*~
 rsconnect/
 .DS_Store
 /data/01-raw_data
+/data/02-analysis_data
